@@ -1,2 +1,2 @@
 # Shell__Scripts
-Devops Engineer daily tasks automating 
+Collection of Shell scripts to automate the tasks
